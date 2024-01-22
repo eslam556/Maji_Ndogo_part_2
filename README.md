@@ -19,4 +19,4 @@ This dataset contains seven tables named <br>
 * global_water_access.
 
 ## Entity Relationship Diagram
-![alt text](./images/ERD.JPG)
+![alt text](./images/ERD.jpg)
